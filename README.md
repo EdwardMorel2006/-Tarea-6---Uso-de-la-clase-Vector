@@ -1,4 +1,4 @@
-# Tarea 1 - Lógica de Programación
+# Tarea 6 - Uso de la clase Vector
 
 ## Autor
 **EDWARD ALBERTO MOREL RAMIREZ y
