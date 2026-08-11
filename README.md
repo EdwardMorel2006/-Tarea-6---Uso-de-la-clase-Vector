@@ -5,18 +5,19 @@
   DANIEL EDUARDO DUPUY**
 
 ## Descripción
-Este proyecto consiste en un programa desarrollado en C++ que solicita el sueldo mensual de un empleado, calcula el sueldo anual y determina el Impuesto Sobre la Renta de acuerdo con la escala vigente de la Dirección General de Impuestos Internos de la República Dominicana.
 
-Si el sueldo del empleado no alcanza el monto mínimo para pagar ISR, el programa muestra un descuento de RD$0 (No aplica).
+Este proyecto consiste en un programa de inventario desarrollado en C++. El programa permite registrar productos, guardar sus nombres y precios, modificar el precio de un producto y calcular el precio promedio del inventario.
 
 ## Funciones
-- Solicita el sueldo mensual del empleado.
-- Calcula el sueldo anual.
-- Determina el ISR correspondiente según la escala vigente.
-- Muestra el sueldo mensual, el sueldo anual y el ISR a descontar.
+- Registrar productos.
+- Guardar el nombre y precio de cada producto.
+- Mostrar la lista de productos.
+- Modificar el precio de un producto.
+- Calcular el precio promedio.
+- Mostrar la lista actualizada.
+- Validar posiciones incorrectas.
 
 ## Tecnologías utilizadas
 - Lenguaje: C++
 - Entorno de desarrollo: Visual Studio
-
 
